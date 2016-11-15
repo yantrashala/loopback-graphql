@@ -79,7 +79,7 @@
     "serve-favicon": "^2.0.1",
     "sinon": "^1.17.6",
     "standard-version": "^3.0.0",
-    "strong-error-handler": "^1.0.1",
+    "strong-error-handler": "^1.1.1",
     "validate-commit-msg": "^2.8.0"
   },
   "config": {
